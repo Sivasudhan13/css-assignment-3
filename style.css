@@ -1,0 +1,21 @@
+.white {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+}
+.black {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+}
+.row {
+  display: flex;
+}
+.chess-container {
+  padding: 7px;
+  border: 10px solid black;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
