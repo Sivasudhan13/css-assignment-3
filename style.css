@@ -14,8 +14,7 @@
 .chess-container {
   padding: 7px;
   border: 10px solid black;
-}
-.container {
-  display: flex;
-  justify-content: center;
+  width: 800px;
+  height: 800px;
+  margin: auto;
 }
